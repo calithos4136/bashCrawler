@@ -1,2 +1,7 @@
 # bashCrawler
-an web crawler and image extractor written in bash, mainly for the website 'https://yande.re'
+a web crawler and image extractor written in bash, mainly for the website 'https://yande.re'
+
+
+Simply download the bash file crawler.sh and run it from anywhere in your terminal. 
+
+When selecting the directory in the program prompts, navigate from the home directory, not the program directory.
