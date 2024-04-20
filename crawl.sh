@@ -360,7 +360,15 @@ fi
             pingIt
 
             if [ $isAlive == 0 ];
-                then echo "Server found!"
+                then
+                echo "▄▄▄▄·▄▄▄▄·      ▄▄·▄▄▄  ▄▄▄·▄▄▌ ▐ ▄▄▄▌ ▄▄▄ ▄▄▄
+▐█ ▀█▐█ ▀█▪    ▐█ ▌▀▄ █▐█ ▀███· █▌▐██• ▀▄.▀▀▄ █·
+▐█▀▀█▐█▀▀█▄    ██ ▄▐▀▀▄▄█▀▀███▪▐█▐▐██▪ ▐▀▀▪▐▀▀▄
+██▄▪▐██▄▪▐█    ▐███▐█•█▐█ ▪▐▐█▌██▐█▐█▌▐▐█▄▄▐█•█▌
+·▀▀▀▀·▀▀▀▀     ·▀▀▀.▀  ▀▀  ▀ ▀▀▀▀ ▀.▀▀▀ ▀▀▀.▀  ▀"
+                echo "Author: CALITHOS4136"
+                echo "====================================================="
+                echo "Connection successfully established with: https://yande.re!"
             else
                 echo "The server you are trying to access seems to be unreachable. Please try again."
                 exit
