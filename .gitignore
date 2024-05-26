@@ -1,2 +1,4 @@
 
 /.output
+.output/out.txt
+.output/links.txt
